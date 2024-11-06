@@ -8,15 +8,13 @@ Una persona che unisce precisione e spontaneità, capace di affrontare ogni prog
 ![TechStack](https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,git,latex,java,c,cpp,cs,php,css,mysql,bootstrap,jquery,html,js,docker,bash,phpstorm,wordpress)
 
 ## Statische
-<table style="width: 100%; text-align: center; vertical-align: middle;">
+<table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=alessandromasone&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="alessandromasone's Stats">
     </td>
-  </tr>
-  <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alessandromasone&theme=transparent&hide_border=true" alt="alessandromasone's Streak">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alessandromasone&theme=transparent&show_icons=true&hide_border=true" alt="alessandromasone's Streak">
     </td>
   </tr>
 </table>
