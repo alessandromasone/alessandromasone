@@ -1,16 +1,24 @@
-## Hi there 👋
+# Sono io, Alessandro
+[![Instagram Badge](https://img.shields.io/badge/-@alessandro.masone-blue?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/alessandro.masone/)](https://instagram.com/alessandro.masone)
+[![Gmail Badge](https://img.shields.io/badge/-alessandro@masone.cloud-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alessandro@masone.cloud)](mailto:alessandro@masone.cloud)
 
-<!--
-**alessandromasone/alessandromasone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Una persona che unisce precisione e spontaneità, capace di affrontare ogni progetto con un approccio dettagliato ma senza mai rinunciare alla flessibilità. Affronta gli imprevisti con calma e razionalità, sempre concentrato sulla ricerca della soluzione migliore. Puntuale e determinato, crede che ogni cosa vada fatta nel miglior modo possibile, senza lasciare spazio a compromessi. Il concetto di “tempo libero” è per lui un’illusione: è sempre alla ricerca di nuovi stimoli e attività da svolgere, con l’obiettivo di migliorarsi continuamente.
 
-Here are some ideas to get you started:
+## Tecnologie
+![TechStack](https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,git,latex,java,c,cpp,cs,php,css,mysql,bootstrap,jquery,html,js,docker,bash,phpstorm,wordpress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Statische
+<table style="width: 100%; text-align: center; vertical-align: middle;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=alessandromasone&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="alessandromasone's Stats">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alessandromasone&theme=transparent&hide_border=true" alt="alessandromasone's Streak">
+    </td>
+  </tr>
+</table>
+
+
