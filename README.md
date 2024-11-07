@@ -14,7 +14,7 @@ Una persona che unisce precisione e spontaneità, capace di affrontare ogni prog
       <img src="https://github-readme-stats.vercel.app/api?username=alessandromasone&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="alessandromasone's Stats">
     </td>
     <td>
-      
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alessandromasone&theme=transparent&show_icons=true&hide_border=true" alt="alessandromasone's Streak">
     </td>
   </tr>
 </table>
