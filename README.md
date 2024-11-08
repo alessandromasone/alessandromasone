@@ -11,10 +11,10 @@ Una persona che unisce precisione e spontaneità, capace di affrontare ogni prog
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=alessandromasone&theme=transparent&show_icons=true&hide_border=true&count_private=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=alessandromasone&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="">
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alessandromasone&theme=transparent&show_icons=true&hide_border=true">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alessandromasone&theme=transparent&show_icons=true&hide_border=true" alt="">
     </td>
   </tr>
 </table>
