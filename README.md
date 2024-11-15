@@ -21,10 +21,5 @@ Ti invito a visitare la mia [organizzazione](https://github.com/masonedotcloud) 
         <img src="https://streak-stats.demolab.com/?user=alessandromasone&theme=transparent&show_icons=true&hide_border=true" alt="GitHub Streak">
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandromasone&theme=transparent&show_icons=true&hide_border=true&layout=donut" alt="Top Languages">
-      </td>
-    </tr>
   </table>
 </div>
