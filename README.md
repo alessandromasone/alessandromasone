@@ -11,15 +11,20 @@ Ti invito a visitare la mia [organizzazione](https://github.com/masonedotcloud) 
 ![TechStack](https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,git,latex,java,c,cpp,cs,php,css,mysql,bootstrap,jquery,html,js,docker,bash,phpstorm,wordpress)
 
 ## Statische
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=alessandromasone&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="">
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alessandromasone&theme=transparent&show_icons=true&hide_border=true" alt="">
-    </td>
-  </tr>
-</table>
-
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=alessandromasone&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=alessandromasone&theme=transparent&show_icons=true&hide_border=true" alt="GitHub Streak">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandromasone&theme=transparent&show_icons=true&hide_border=true&layout=donut" alt="Top Languages">
+      </td>
+    </tr>
+  </table>
+</div>
