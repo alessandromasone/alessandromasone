@@ -10,7 +10,7 @@ Ti invito a visitare la mia [organizzazione](https://github.com/masonedotcloud) 
 ## Tecnologie
 ![TechStack](https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,git,latex,java,c,cpp,cs,php,css,mysql,bootstrap,jquery,html,js,docker,bash,phpstorm,wordpress)
 
-## Statische
+## Statistiche
 <div align="center">
   <table>
     <tr>
