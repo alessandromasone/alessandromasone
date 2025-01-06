@@ -17,9 +17,11 @@ Ti invito a visitare la mia [organizzazione](https://github.com/masonedotcloud) 
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=alessandromasone&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
       </td>
+      <!---
       <td>
-        <img src="https://streak-stats.demolab.com/?user=alessandromasone&theme=transparent&show_icons=true&hide_border=true" alt="GitHub Streak">
+        [comment]: <> (<img src="https://streak-stats.demolab.com/?user=alessandromasone&theme=transparent&show_icons=true&hide_border=true" alt="GitHub Streak">)
       </td>
+      -->
     </tr>
   </table>
 </div>
