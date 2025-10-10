@@ -11,17 +11,8 @@ Ti invito a visitare la mia [organizzazione](https://github.com/masonedotcloud) 
 ![TechStack](https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,git,latex,java,c,cpp,cs,php,css,mysql,bootstrap,jquery,html,js,docker,bash,phpstorm,wordpress)
 
 ## Statistiche
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=alessandromasone&theme=transparent&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
-      </td>
-      <!---
-      <td>
-        [comment]: <> (<img src="https://streak-stats.demolab.com/?user=alessandromasone&theme=transparent&show_icons=true&hide_border=true" alt="GitHub Streak">)
-      </td>
-      -->
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alessandromasone&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Statistiche GitHub di Alessandro Masone" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alessandromasone&theme=default&hide_border=true" alt="GitHub Streak di Alessandro Masone" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandromasone&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Linguaggi più usati da Alessandro Masone" />
+</p>
