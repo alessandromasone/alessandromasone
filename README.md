@@ -12,7 +12,11 @@ Ti invito a visitare la mia [organizzazione](https://github.com/masonedotcloud) 
 
 ## Statistiche
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alessandromasone&theme=default&show_icons=true&hide_border=true&count_private=true" alt="Statistiche GitHub di Alessandro Masone" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alessandromasone&theme=default&hide_border=true" alt="GitHub Streak di Alessandro Masone" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandromasone&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Linguaggi più usati da Alessandro Masone" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alessandromasone&theme=default" alt="Profile Details" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alessandromasone&theme=default" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alessandromasone&theme=default&utcOffset=8" alt="Productive Time" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alessandromasone&theme=default" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alessandromasone&theme=default" alt="Most Commit Language" />
 </p>
